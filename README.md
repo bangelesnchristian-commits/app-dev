@@ -1,2 +1,1 @@
-# app-dev
-My first repository
+<img width="2400" height="2268" alt="image" src="https://github.com/user-attachments/assets/05c51447-f4f9-4aa1-a285-09fd801d15ea" /><img width="2400" height="2268" alt="image" src="https://github.com/user-attachments/assets/a554c994-ea24-480e-ab42-c26b0e52b92a" />
